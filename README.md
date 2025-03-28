@@ -39,4 +39,4 @@ Puedes instalarlo con:
 ```bash
 pip install pygame
 
-Opcion Adicional: se agrego un archivo ejecutable .exe, que se puede descargar aparte, se encuentra en la carpeta dist.
+Opcion Adicional: se agrego un archivo ejecutable .exe, que se puede descargar aparte y jugar sin necesidad de instalar nada, se encuentra en la carpeta dist.
